@@ -96,5 +96,4 @@ class SQRServiceTest {
         Assertions.assertEquals(expected, actual);
     }
 
-
 }
